@@ -12,16 +12,22 @@ Le projet se compose de **3 applications** qui partagent les mêmes données :
 
 ## Aperçu
 
-### 7Travel (web)
+Chaque application est présentée en « planche » : tous ses écrans sur une seule image.
+
+### 7Travel (web, 8 écrans)
+![Planche 7Travel](docs/screenshots/07-7travel-planche-ecrans.png)
+
+### 7Activity (desktop, 5 écrans)
+![Planche 7Activity](docs/screenshots/08-7activity-planche-ecrans.png)
+
+### 7Check (mobile, 9 écrans)
+![Planche 7Check](docs/screenshots/06-7check-planche-9-ecrans.png)
+
+### Écrans en détail
 ![Connexion 7Travel](docs/screenshots/01-7travel-connexion.png)
 ![Accueil 7Travel](docs/screenshots/02-7travel-accueil.png)
-
-### 7Activity (desktop), modes sombre et clair
 ![7Activity sombre](docs/screenshots/03-7activity-planning-sombre.png)
 ![7Activity clair](docs/screenshots/04-7activity-planning-clair.png)
-
-### 7Check (mobile), parcours complet en 9 écrans
-![7Check planche](docs/screenshots/06-7check-planche-9-ecrans.png)
 
 ## Contexte
 
